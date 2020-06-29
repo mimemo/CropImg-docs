@@ -1,5 +1,8 @@
 # CropImg App
 
+- [リリースノート](./ReleaseNote.md)
+
+
 - [日本語](#アプリ)
 - [English](#App)
 
