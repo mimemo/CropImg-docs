@@ -1,7 +1,5 @@
 # CropImg App
 
-## Store
-
 <div id="mspb-thysrwyidmyj" class="9NZ0CB7HNQKM">
   <noscript>
     <link rel="stylesheet" type="text/css" href="https://storebadge.azureedge.net/src/fallback-1.7.0.css">
@@ -13,19 +11,11 @@
       </div>
       <div class="mspb-details">
         <h1>Cropping Image</h1>
-        <p class="mspb-publisher">河石 千里</p>
-        <p class="mspb-price">See price in store</p>
-        <a class="mspb-link" href="https://www.microsoft.com/store/apps/9NZ0CB7HNQKM?ocid=periscope" target="_blank">SEE IN STORE</a>
       </div>
     </div>
   </noscript>
 </div>
-<script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
-<script>
-  mspb('9NZ0CB7HNQKM', function(badge) {
-    document.getElementById('mspb-thysrwyidmyj').innerHTML = badge;
-  });
-</script>
+
 
 
 ---
