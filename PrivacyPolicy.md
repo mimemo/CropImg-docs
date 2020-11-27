@@ -13,7 +13,7 @@ With this application, we will not gather information about your personal inform
 ---
 # サポート(Support)
 
-Twitter:@Kwaishi2
+Twitter:@Kawaishi2
 
 
 ---
